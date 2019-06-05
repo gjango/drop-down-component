@@ -16,10 +16,10 @@
            placeholder="{{opened ? null : placeholder}}" #dropdown="ngModel" [ngModel]="value" (click)="value = ''"
            [ngClass]="opened ? 'drop-down-input-opened' : 'drop-down-input'">
     <div [ngClass]="hovered ? 'invisible-rectangle' : 'rectangle'" *ngIf="enabled">
-      <img [src]="(hovered  || opened) ? '../../assets/active.svg' : '../../assets/inactive.svg'" class="action-button"
+      <img [src]="(hovered  || opened) ? './../assets/active.svg' : './../assets/inactive.svg'" class="action-button"
            [ngClass]="opened ? 'rotateX180' : ''">
     </div>
-    <img *ngIf="!enabled" src="../../assets/disabled.svg" class="disabled-action-button">
+    <img *ngIf="!enabled" src="./../assets/disabled.svg" class="disabled-action-button">
   </div>
   <div *ngIf="opened" class="drop-down-box">
     <div *ngFor="let item of filteredData ? filteredData : values; index as j" class="drop-down-option"

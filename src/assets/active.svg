@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="6px" viewBox="0 0 12 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55 (78076) - https://sketchapp.com -->
+    <title>BD2F79A2-E5DD-4208-B335-21F9F7B4A6DA</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M11.999603,15.0011879 C11.8245285,15.0043508 11.647587,14.946563 11.5031506,14.824885 L6.23737015,10.3888176 C5.92920894,10.1292124 5.88124372,9.67250503 6.1287464,9.35454181 L6.18052671,9.28802037 C6.18646261,9.2803946 6.19254535,9.27288426 6.19877151,9.26549357 C6.46564202,8.94870815 6.93878864,8.90824411 7.25557407,9.17511462 L11.9999997,13.1719756 L16.7444254,9.1751146 C16.7518161,9.16888844 16.7593264,9.1628057 16.7669522,9.1568698 C17.0938139,8.90244049 17.5650434,8.96115859 17.8194728,9.28802035 L17.8712531,9.35454181 C18.1187558,9.67250503 18.0707905,10.1292124 17.7626293,10.3888176 L12.4968488,14.824885 C12.4894582,14.8311112 12.4819478,14.8371939 12.474322,14.8431298 C12.3332889,14.9529101 12.1653784,15.0043911 11.999603,15.0011879 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dropdowns" transform="translate(-293.000000, -270.000000)">
+            <g id="assets/icons/arrow/down/active" transform="translate(287.000000, 261.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FCC84E" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

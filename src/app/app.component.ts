@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'drop-down-component';
+  autoCompleteData = ['AB', 'ABC', 'ABCD', 'ABCDE', 'ABCDEF'];
+  defaultData = ['ABC', 'DEF', 'GHI', 'JKL', 'MNO'];
+  multiSelectData = [{key: 1, data: 'ABC'}, {key: 2, data: 'DEF'}, {key: 3, data: 'GHI'}, {key: 4, data: 'JKL'}, {key: 5, data: 'MNO'}]
+
+  enable1: boolean = true;
+  enable2: boolean = true;
+  enable3: boolean = true;
+
 }

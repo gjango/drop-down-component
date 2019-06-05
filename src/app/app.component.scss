@@ -1,0 +1,17 @@
+.container{
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.tools{
+  text-align: center;
+  color: #ffffff;
+  button{
+    margin-right: 15px;
+    color: #ffffff;
+    background-color: #043149;
+    border: none;
+    border-radius: 5px;
+  }
+}
